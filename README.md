@@ -14,7 +14,10 @@ A website to learn about astronomy and the cosmos, this is also my first website
 TECNOLOchicas is a program with the aim of inspiring and creating opportunities for young Latinas to consider pursuing careers in STEM (Science, Technology, Engineering, and Mathematics)
 
 ## Let me introduce you to... Astroweb ##
-![Screenshoot of the project](<https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Google_Homepage.svg/320px-Google_Homepage.svg.png>)
+![](https://github.com/Danismad/Astroweb-2.0/blob/main/Captura%20de%20pantalla%202023-07-27%20a%20la(s)%2019.52.22.png)
+
+You can find features like:
+
 
 ## Features ##
 * Website about astronomy.
