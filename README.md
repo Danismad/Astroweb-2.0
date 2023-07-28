@@ -17,7 +17,14 @@ TECNOLOchicas is a program with the aim of inspiring and creating opportunities 
 ![](https://github.com/Danismad/Astroweb-2.0/blob/main/Captura%20de%20pantalla%202023-07-27%20a%20la(s)%2019.52.22.png)
 
 You can find features like:
+Top biggest stars
+![](https://github.com/Danismad/Astroweb-2.0/blob/main/Captura%20de%20pantalla%202023-07-27%20a%20la(s)%2019.52.31.png)
 
+Top space missions
+![](https://github.com/Danismad/Astroweb-2.0/blob/main/Captura%20de%20pantalla%202023-07-27%20a%20la(s)%2019.52.37.png)
+
+Consultation questions and interactive websites
+![](https://github.com/Danismad/Astroweb-2.0/blob/main/Captura%20de%20pantalla%202023-07-27%20a%20la(s)%2019.52.54.png)
 
 ## Features ##
 * Website about astronomy.
